@@ -1,0 +1,6 @@
+framework module Pods_Propel_Database {
+  umbrella header "Pods-Propel_Database-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -14,7 +14,6 @@
 		047D0C5E20B2A7770061FAE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047D0C5D20B2A7770061FAE1 /* Assets.xcassets */; };
 		047D0C6120B2A7770061FAE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 047D0C5F20B2A7770061FAE1 /* LaunchScreen.storyboard */; };
 		047D0C6920B5440C0061FAE1 /* BuildOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 047D0C6820B5440B0061FAE1 /* BuildOptions.plist */; };
-		04BA54552120415E00F9A0E1 /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04BA54542120415E00F9A0E1 /* exportOptions.plist */; };
 		376CA8DC4343A967A28BD101 /* Pods_Propel_Database.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CCCAA8079B76B7A61112841 /* Pods_Propel_Database.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		047D0C6020B2A7770061FAE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		047D0C6220B2A7770061FAE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047D0C6820B5440B0061FAE1 /* BuildOptions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = BuildOptions.plist; sourceTree = "<group>"; };
-		04BA54542120415E00F9A0E1 /* exportOptions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 		0CCCAA8079B76B7A61112841 /* Pods_Propel_Database.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Propel_Database.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F2ADE1F16B70B944242E4F /* Pods-Propel_Database.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Propel_Database.release.xcconfig"; path = "Pods/Target Support Files/Pods-Propel_Database/Pods-Propel_Database.release.xcconfig"; sourceTree = "<group>"; };
 		7A166D3BA9FD417AF57E20F6 /* Pods-Propel_Database.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Propel_Database.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Propel_Database/Pods-Propel_Database.debug.xcconfig"; sourceTree = "<group>"; };
@@ -49,7 +47,6 @@
 		047D0C4720B2A7770061FAE1 = {
 			isa = PBXGroup;
 			children = (
-				04BA54542120415E00F9A0E1 /* exportOptions.plist */,
 				047D0C5220B2A7770061FAE1 /* Propel_Database */,
 				047D0C5120B2A7770061FAE1 /* Products */,
 				B1C30141E57177D503307162 /* Pods */,
@@ -161,7 +158,6 @@
 			files = (
 				047D0C6920B5440C0061FAE1 /* BuildOptions.plist in Resources */,
 				047D0C6120B2A7770061FAE1 /* LaunchScreen.storyboard in Resources */,
-				04BA54552120415E00F9A0E1 /* exportOptions.plist in Resources */,
 				047D0C5E20B2A7770061FAE1 /* Assets.xcassets in Resources */,
 				047D0C5920B2A7770061FAE1 /* Main.storyboard in Resources */,
 			);
